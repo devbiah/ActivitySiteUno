@@ -1,0 +1,17 @@
+.app-footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    top: 1000px;;
+    right: 0;
+    padding: 2rem;
+    background: red;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+.app-footer p {
+    margin: 1px 0;
+    font-size: 14px;
+}
